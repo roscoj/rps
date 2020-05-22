@@ -1,6 +1,6 @@
-###A javascript version of rock, paper, scissors###
+### A javascript version of rock, paper, scissors
 
-Gameplay:
+## Gameplay:
 
 1. Player is prompted to choose one of rock, paper or scissors
 2. Computer randomly selects one of rock, paper or scissors
