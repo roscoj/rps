@@ -1,4 +1,4 @@
-### A javascript version of rock, paper, scissors
+# A javascript version of rock, paper, scissors
 
 ## Gameplay:
 
